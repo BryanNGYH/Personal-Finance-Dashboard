@@ -4,7 +4,7 @@ Money management is one of the most important and reliable skills. Aside from Te
 ## Tools and Resources
 Power BI\
 Python Version: 3.11\
-Packages: Pandas, Numpy\
+Packages: Pandas\
 Dataset: Own dataset downloaded from [Money Manager](https://play.google.com/store/apps/details?id=com.realbyteapps.moneymanagerfree&hl=en&gl=US)
 
 ## Data Transformation
