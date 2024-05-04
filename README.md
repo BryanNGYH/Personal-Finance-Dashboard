@@ -12,7 +12,7 @@ Before importing the data, I did some **Pre-Processing** on the dataset so that 
 - Removed unused columns
 - Performed **feature engineering** to extract the month and quarter information from the date
 - Used aggregate function to calculate the sum of income/expenses in a given month 
-- Manually manipulated 1 data entry as there is a mistake in the categorization
+- Manually manipulated 1 data entry as there was a mistake in the categorization
 - Created a pivot table to visualize my income/expenses based on category
  
  ![Spam Corpus](https://github.com/BryanNGYH/Personal-Finance-Dashboard/blob/master/image/Dashboard.png?raw=true)
